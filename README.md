@@ -11,7 +11,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018
 
 [Inferring salient objects from human fixations,](https://www.researchgate.net/publication/331872926_Inferring_Salient_Objects_from_Human_Fixations) 
 
-IEEE Trans. on Pattern Analysis and Machine Intelligence, 2018 
+IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 2019 
 
 ===========================================================================
 
@@ -19,7 +19,7 @@ IEEE Trans. on Pattern Analysis and Machine Intelligence, 2018
 
 2. Run "main.py".
 
-3. The results are stored at "saliency_predictions" folder. 
+3. The computed saliency maps are stored in the "saliency_predictions" folder. 
 
 ===========================================================================
 
