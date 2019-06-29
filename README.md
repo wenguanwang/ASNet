@@ -44,8 +44,6 @@ Citation:
       year={2019},
     }
 
-If you find our dataset is useful, please cite above paper.
-
 ===========================================================================
 
 Contact Information
