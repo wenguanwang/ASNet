@@ -15,7 +15,7 @@ IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 2019
 
 ===========================================================================
 
-1. Download our model from https://drive.google.com/file/d/16RSGrRe_0cj_owSLbmpbSYgnqRxMZii_/view?usp=sharing
+1. Download our model from https://drive.google.com/file/d/1Ifoqjq1lTwNTe6dxGjJBK8eoohJaXQoK/view?usp=sharing
 
 2. Run "main.py".
 
